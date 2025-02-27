@@ -10,11 +10,11 @@
 * Inteligencia Artificial aplicada al desarrollo de software
 * Creación de aplicaciones web innovadoras y escalables
 
-📚 Actualmente aprendiendo:
+📚 Actualmente trabajando en:
 
-* Tecnicatura en Informatica
-* Arquitectura de software y optimización de bases de datos
-* Nuevas herramientas y tecnologías para mejorar mis desarrollos
+* BarberApp (URL)
+* for-devs (URL)
+* Fixme (URL)
 
 🤝 Busco colaborar en:
 
@@ -25,6 +25,6 @@
 
 📬 Contacto:
 📩 Email: mateogabrieldominguez@gmail.com
-🔗 LinkedIn: Perfil
+🔗 LinkedIn: [Perfil](https://www.linkedin.com/in/mateo-dominguez-b09954291/)
 
 ⚡ Dato curioso: Además de programar, también me apasiona la guitarra 🎸 y el running 🏃‍♂️.
