@@ -21,6 +21,7 @@
 * Proyectos de desarrollo web con impacto real
 * Startups y emprendimientos tecnológicos
 * Aplicaciones que mejoren la experiencia del usuario
+* abierto a contrataciones
 
 
 📬 Contacto:
